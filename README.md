@@ -1,2 +1,5 @@
 # hello-world
-GitHub-Hello World 
+
+Hello! I am a turtle named Thomas!
+
+I like eating mushrooms and stepping on porcupines!
